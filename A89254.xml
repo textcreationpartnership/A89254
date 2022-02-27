@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A certificate from the Lord Moor and Sir Henry Titchborne, shewing the certainty of the cleering of the harbour, and country, twenty miles about Tredagh, with the taking of Bewly and Stameene castles, from the rebels. It is ordered this seventh day of April, 1642. by the Committee of the House of Commons in Parliament concerning printing, that this certificate be forthwith printed. Iohn White. Whereunto is added, divers overthrowes given at sundry times to the rebels.</title>
+            <author>Moore of Drogheda, Charles Moore, Viscount, 1603-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89254</idno>
+            <idno type="STC">Wing M2534</idno>
+            <idno type="STC">Thomason E142_16</idno>
+            <idno type="STC">ESTC R18980</idno>
+            <idno type="EEBO-CITATION">99860522</idno>
+            <idno type="PROQUEST">99860522</idno>
+            <idno type="VID">156583</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156583)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E142[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A certificate from the Lord Moor and Sir Henry Titchborne, shewing the certainty of the cleering of the harbour, and country, twenty miles about Tredagh, with the taking of Bewly and Stameene castles, from the rebels. It is ordered this seventh day of April, 1642. by the Committee of the House of Commons in Parliament concerning printing, that this certificate be forthwith printed. Iohn White. Whereunto is added, divers overthrowes given at sundry times to the rebels.</title>
+                  <author>Moore of Drogheda, Charles Moore, Viscount, 1603-1643.</author>
+                  <author>T. K.</author>
+                  <author>Tichborne, Henry, Sir, 1581?-1667.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hunscott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A letter from Carrickfergus, April 2, 1642, p. 7 is signed: T.K.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156583:1" rendition="simple:additions"/>
+            <p>A CERTIFICATE FROM THE Lord <hi>Moor</hi> and Sir <hi>Henry Titchborne,</hi> Shewing The certainty of the cleering of the Harbour, and Country, twenty miles about <hi>Tredagh,</hi> with the taking of <hi>Bewly</hi> and <hi>Stameene</hi> Caſtles, from the Rebels.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>It is ordered this ſeventh day of <hi>April,</hi> 1642. By the Committee of the Houſe of Commons in Parlia<g ref="char:EOLhyphen"/>ment concerning Printing, that this Certificate be forthwith Printed.</p>
+                        <closer>
+                           <signed>Iohn White.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Whereunto is added, Divers over<g ref="char:EOLhyphen"/>throwes given at ſundry times to the Rebels.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Joſeph Hunſcott.</hi> 1642.</p>
+            <pb facs="tcp:156583:2"/>
+         </div>
+         <div type="document">
+            <pb facs="tcp:156583:2"/>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as we have been long beſieged in this Town of <hi>Drogheda,</hi> to the diſ<g ref="char:EOLhyphen"/>heartning of the Engliſh Shipping to come into the Harbor, or to traffick, or trade hither; which ſiege we (under God) have now rai<g ref="char:EOLhyphen"/>ſed, Inſomuch that we have poſſeſſed our ſelves of the Towns, and Caſtles of <hi>Bewley</hi> and <hi>Stameene</hi> on both ſides of the mouth of the Harbour, and have burnt <hi>Mornanton;</hi> In all which the enemy formerly lay, and endea<g ref="char:EOLhyphen"/>voured to block up the River; and have likewiſe ſo beaten the Enemy, that they have no force within 20. miles of this Town, only <hi>Dundalk</hi> is not yet cleered. Now for the encou<g ref="char:EOLhyphen"/>ragement
+<pb facs="tcp:156583:3"/>
+of the Engliſh Shipping and Marchants, we have thought fit to ſignifie thus much, and have ſent this ſmall Ship which we took as a prize, and named <hi>(Gods-Gift)</hi> fraighted by Maſter <hi>James Penteny,</hi> and Mr. <hi>George Peppard,</hi> with Hides and Tallow, to inform the Mar<g ref="char:EOLhyphen"/>chants and Marriners of <hi>Cheſter,</hi> and <hi>Lever-pool-water,</hi> that they may free<g ref="char:EOLhyphen"/>ly traffick and trade hither, and may caſt Ankor, between this harbour and <hi>Dublin</hi> free, and without inter<g ref="char:EOLhyphen"/>ruption, Dated at <hi>Drogheda</hi> the 15. of <hi>March.</hi> 1641.</p>
+            <closer>
+               <signed>Signed,
+<list>
+                     <item>Moore,</item>
+                     <item>Hen. Titchborne.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_defeats">
+            <pb facs="tcp:156583:3"/>
+            <head>Certain overthrowes given to the Rebels.</head>
+            <p>AT ſeverall times before the 19 of <hi>January,</hi> our people about <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntrim</hi> had killed of the Rebels at leaſt 700<hi>:</hi> the 26 of <hi>February,</hi> there came 8000. Rebels, and beleagured the Town of <hi>Antrim</hi> three daies, the third day they made their aſſault upon the Town; the enemies aſſaulted it in 5. ſeverall places, and were beaten back with the loſſe of many common ſouldiers; and in the repulſe two Captains of the Rebels were killed, and one hurt; and many Arms taken, and none of our ſide ſlain, only one hurt in the thigh. This laſt week there came cer<g ref="char:EOLhyphen"/>tain news to and from men of good credit, that 400. of Sir <hi>John Clotwor<g ref="char:EOLhyphen"/>thies</hi> Regiment iſſued or ſallied out
+<pb facs="tcp:156583:4"/>
+upon 5000. of the Rebels, ſlew 500. common men, and ſome Comman<g ref="char:EOLhyphen"/>ders. My Lord <hi>Conaway</hi> is ſafely ar<g ref="char:EOLhyphen"/>rived, and Sir <hi>John Clotworthy</hi> daily expected, who by reaſon of the Scots not arrivall in <hi>Ireland,</hi> when he came into <hi>Scotland</hi> was neceſsitated to go to <hi>Edenborough</hi> to ſee what might be the impediment and cauſe of their long ſtay, that ſo by removing it, and ta<g ref="char:EOLhyphen"/>king them along with him he might better advance the ſervice which in their abſence and want, could not but languiſh or go on with leſſe ſucceſſe, unleſſe there had been greater forces of our own Nation there.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:156583:4"/>
+            <opener>
+               <dateline>
+                  <date>From Carrickfergus, April 2. 1642.</date>
+               </dateline>
+               <lb/>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Wrote to you from <hi>Dublin</hi> two Letters, wherein I ſhewed you the eſtate of this Kingdom at large, and the miſery theſe rebellious people have run them<g ref="char:EOLhyphen"/>ſelves into: But now at this place here is no Aid come over yet, for the Scots have lien this Month within 16 Leagues of this place, and in all this time have not had a winde to bring them over: And when I arrived here ſome 10 dayes ſince, here was not a<g ref="char:EOLhyphen"/>bove 700 men, and not Arms for a third part of thoſe neither, nor yet money to pay them; and for my part, I had as little as the leaſt, for I brought but one groat hither: But ſince here is 2 Ships arrived, laden with Ammunition, and 3 Ships laden with Corn from <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and my Lord <hi>Conway</hi> and his Troop; ſo now it is ſomewhat amended: But I hope very ſuddenly it will be a great deal better, if once our Ships come with the Scotiſh Forces, and ſome better Governours that will curb theſe Scots; for here hath been great want of good Commanders all this time. But I doubt not, that if the Lord bleſſe us, but that you ſhall ſee this a free Conqueſt in a ſhort time: therefore I could wiſh that you would ſell the houſe at a venture; for if this Kingdom be ſubdued, as I doubt not but that it will, then will here be brave living, and a man with one hundred pounds in his purſe ſhall purchaſe that
+<pb facs="tcp:156583:5"/>
+here, whereupon he may live better than he that hath 100 <hi>per annum</hi> in <hi>England.</hi> Corn is very reaſonable now, over it hath been; but the next yeer it will be dear hear, in regard that there hath been none ſown ſince the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Wars; and that that was afore ſown, now will be deſtroyed. And thus deſiring you to remem<g ref="char:EOLhyphen"/>ber my duty to my mother, I ſhall ever remain</p>
+            <closer>
+               <signed>Your obedient Son, T. K.</signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <dateline>
+                     <date>March 25. 1642. Dublin.</date>
+                  </dateline>
+               </opener>
+               <p>IT is credibly reported, That Sir <hi>Charles Coot</hi> will march out of <hi>Dublin</hi> with an Army on Monday next to cleare the Country on the other ſide of <hi>Dublin.</hi>
+               </p>
+               <p>If we had but men enough to leave in <hi>Dublin</hi> to ſe<g ref="char:EOLhyphen"/>cure it, and were able to march forth with 10000 men. I think we might go all over <hi>Ireland;</hi> for God hath put ſuch terrour and dread in the hearts of our enemies, that they are afraid to ſtand againſt us; for 500 of them will not ſtand to fight with 100. Our ſouldiers are all very reſolute and couragious, and they want nothing but their pay, which they have not received theſe ſeven weeks laſt paſt.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
